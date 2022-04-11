@@ -6,4 +6,4 @@ Hierbij moest ik met de Prompt() de vragen stellen en invulvelden maken, en met 
 Het leek mij leuk om dit spel nog een keer te maken. Dit keer met HTML, SCSS en Javascript samen. Ook leek het mij een goede oefening
 om hier DOM manipulatie te grbuiken voor het veranderen van de pagina`s in plaats van hyperlinks.
 
-Het speelveld is gemaakt zodat het op een mobiel gepspeeld kan worden. 
+Het speelveld is gemaakt zodat het op een mobiel gespeeld kan worden. 
